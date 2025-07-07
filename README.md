@@ -37,7 +37,7 @@ project-root/
 
 1️⃣ **Clone the Repo**
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/muthembw/Understanding-JavaScript.git
 2️⃣ Open the Project
 
 Use VS Code, Sublime, or any code editor you like.
